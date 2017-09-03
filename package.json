@@ -1,0 +1,7 @@
+{
+  "name": "agronet.pro",
+  "version": "0.0.1",
+  "dependencies": {
+    "startbootstrap-landing-page": "3.3.7"
+  }
+}
