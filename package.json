@@ -2,6 +2,14 @@
   "name": "agronet.pro",
   "version": "0.0.1",
   "dependencies": {
-    "startbootstrap-landing-page": "3.3.7"
+    "css-loader": "^0.28.7",
+    "file-loader": "^0.11.2",
+    "html-webpack-plugin": "^2.30.1",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "startbootstrap-landing-page": "3.3.7",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.5.5"
   }
 }
